@@ -1,0 +1,11 @@
+zooCasandra/src/main/resources/googleKey.json
+src
+LabMongoDB.pdf
+zooCasandra/target
+zooCasandra/.idea
+zooFauna/.idea
+zooFauna/target
+!zooCasandra/src
+!zooFauna/src
+zooCasandra/zooCasandra.iml
+zooFauna/zooFauna.iml
